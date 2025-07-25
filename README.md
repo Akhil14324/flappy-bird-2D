@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flappy Bird Clone
 
 This project is a recreation of the popular mobile game Flappy Bird using the Unity game engine. The player controls a bird, navigating it through a series of pipes by making it flap its wings to avoid obstacles. The game features a score system, game over conditions, and a simple user interface.
@@ -38,3 +39,6 @@ The `Spawner` script is responsible for spawning pipes at regular intervals.
 - `Start()`: Initializes the spawning process.
 - `SpawnPipe()`: Instantiates a new pipe at a random vertical position.
 
+=======
+# flappy-bird-2D
+>>>>>>> 527e4a3ca5c38b08651e0d2befc6aeffb464ed8c
